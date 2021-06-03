@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Right and duty of the commons of London in the election of sheriffs, and other officers recommended to the Common-hall.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57317</idno><idno type="EEBO-CITATION">9007505</idno>
+  <idno type="VID">42192</idno>
+  <idno type="EEBO-PROQUEST">2248502444</idno>
+  
+            <idno type="STC">Wing R1501A</idno>
+            <idno type="STC">ESTC R25520</idno>
+            <idno type="OCLC">09007505</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42192)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1293:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Right and duty of the commons of London in the election of sheriffs, and other officers recommended to the Common-hall.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sheriffs --  England --  London.</term>
+               <term type="geographic_name">London (England) --  Officials and employees --  Selection and appointment.</term>
+               <term type="geographic_name">London (England) --  Politics and government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42192:1"/>
+            <head>THE RIGHT and DUTY OF THE Commons of London, IN THE Election of Sheriffs, and other Officers: Recommended to the COMMON-HALL.</head>
+            <p>THE Seizing of Charters, and the In<g ref="char:EOLhyphen"/>vasion made upon the Freedom and Priviledges of Corporations, ha<g ref="char:EOLhyphen"/>ving given great occasion to the late Revolution, the Parliament have therefore thought it necessary as well as just, to restore all Cities, as well as Burroughs, and particular<g ref="char:EOLhyphen"/>ly the <hi>Metropolis</hi> of <hi>London,</hi> to all their Ancient Rights, Priviledges, and Legal Customs: Of which we should not only shew our selves un<g ref="char:EOLhyphen"/>worthy, but prove treacherous both to our selves, and to our Posterity, in case that through su<g ref="char:EOLhyphen"/>pineness we neglect, as occasion offereth, to claim and assert them. So that having suffer'd our selves to be eluded of the <hi>Annual Choice</hi> of <hi>Town-Clerk,</hi> and <hi>Common-Serjeant,</hi> it becomes all true Citizens to retrieve and recover that Anci<g ref="char:EOLhyphen"/>ent, Legal, and undoubted Right and Privi<g ref="char:EOLhyphen"/>ledge: Seeing it is expresly granted in our Charters, which have been ratified and confir<g ref="char:EOLhyphen"/>med in so many Parliaments,<note place="margin">Lib. Alb. fol. 13. 6. 12 Hen. 3. 12 Ed. 2. 7 Ri. 2.</note>
+               <hi>That the Chamber<g ref="char:EOLhyphen"/>lain, Common-Clerk, and Common-Serjeant of the City of</hi> London <hi>shall be chosen by the Commonalty of the said City, and removed when they will.</hi>
+            </p>
+            <p>And whereas among other Priviledges vested in the Commons of <hi>London,</hi> that of having a <hi>Sheriffwick</hi> belonging unto them, with a Right of <hi>electing annually</hi> two <hi>Sheriffs,</hi> is one of the most important, and the wresting whereof from them hath been attended with fatal Consequences, in relation both to their Persons and Estates; it is hop'd that no man will so far abandon his own safety, or betray the Corporation, as to suffer themselves to be divested of it, or permit it to be invaded, under pretence of submission unto, and complying with a late foolish and un<g ref="char:EOLhyphen"/>just usage. For the Right of chusing <hi>Two</hi> as well as <hi>One</hi> Sheriff, is equally conveyed unto, and setled upon the <hi>Commons</hi> of <hi>London,</hi> both by the <hi>Laws</hi> of <hi>England,</hi> and by the many <hi>Char<g ref="char:EOLhyphen"/>ters</hi> that hath been granted and ratified unto them. Which appears not only by the <hi>Charters</hi> at large, and the several <hi>Inspeximus's</hi> confirm<g ref="char:EOLhyphen"/>ing them from the Reign of <hi>Henry</hi> I. <hi>Ann.</hi> 1100, through all the successive Reigns, till this present time, but that the <hi>Commons</hi> had the Sheriff<g ref="char:EOLhyphen"/>wick belonging unto them as their Freehold and Birthright by Common-Law, is evident by the <hi>Statute</hi> of <hi>Edw.</hi> I. chap. 8. &amp; 13. <hi>Cook</hi>'s Notes upon it, 2 <hi>Iustit. Fol.</hi> 558. and by <hi>Lam<g ref="char:EOLhyphen"/>bert</hi> in his <hi>Saxon-Laws. Fol.</hi> 146. Let any man consult the Words of the <hi>Charters,</hi> and then tell me whether the <hi>Commons</hi> of <hi>London</hi> have not been, and are to this day, injuriously usurp'd upon. <hi>Know ye,</hi> say the <hi>Charters,</hi>
+               <note place="margin">Lib. K. in Ar<g ref="char:EOLhyphen"/>chivis Lon<g ref="char:EOLhyphen"/>don, fol. 120. Hen. I. King John. Ed. 1. 2. 3. Ric. 2. Hen. 4, 5, 6. Ed. 4. Ric. 3. Hen. 7. 8. Q. Mary. Q. E<g ref="char:EOLhyphen"/>liz. K. James 1. Ch. 1, 2. K. W. &amp; Q. M. Rot. Parl. 7 Ric. 2. &amp; In<g ref="char:EOLhyphen"/>spex. 8. Jacob. Ex Original. Carta. 1 Jo<g ref="char:EOLhyphen"/>hannis.</note>
+               <hi>That we have granted, and by this our present Writing, confirm to our Citizens of</hi> London, <hi>the Sheriff-wick of</hi> London <hi>and</hi> Middlesex, <hi>with all the Customs, and things within and without, by Land, and by Water, to have and to hold to them, and to their Heirs; pay<g ref="char:EOLhyphen"/>ing therefore</hi> 300 <hi>blank Sterling Money, at two pay<g ref="char:EOLhyphen"/>ments. And farther, we have granted to the Citi<g ref="char:EOLhyphen"/>zens of</hi> London, <hi>That they amongst themselves, may make Sheriffs whom they will, and may remove them when they will. And those whom they shall make Sheriffs, they shall present to our Justices at the Ex<g ref="char:EOLhyphen"/>chequer, to answer us for those things, which to the said Sheriff-wick do appertain, whereof they ought to answer us. And unless they shall sufficiently answe and satisfie, the Citizene shall answer and satisfie us, the Amercements and Farm. And that the Sheriffs of the City aforesaid, after the Tenor of the Charter thereof made, be chosen, and no otherwise.</hi>
+            </p>
+            <p>But now, tho the Right of <hi>chafing Annually two Sheriffs,</hi> be as fully vested in the <hi>Commons</hi> of <hi>London,</hi> as Words can settle and convey it; yet through a neglect in the Citizens of maintain<g ref="char:EOLhyphen"/>ing their own Rights, and through an Usur<g ref="char:EOLhyphen"/>pation of some in Authority to advance the Prerogative of the Chair, the Citizens have
+<pb facs="tcp:42192:2"/> greatly suffer'd by an Invasion upon this their Ancient and undoubted Privilege. And when their Present Majesties have been willing to re<g ref="char:EOLhyphen"/>store unto all their People, the Rights and Li<g ref="char:EOLhyphen"/>berties that had been wrested from them under the late unhappy Reigns, it is the misfortune of the <hi>Commons</hi> of <hi>London,</hi> to have theirs invad<g ref="char:EOLhyphen"/>ed and withheld, by the revival of a Custom of my Lord Mayor's drinking to one under the Denomination of Sheriff, to be confirmed by the Common-Hall. The renewing of which Custom▪ is the more reproachful, as well as injurious at this time, because it is the reassum<g ref="char:EOLhyphen"/>ing of a Claim that was of late exploded, as well as it was at first usurped. All that was anci<g ref="char:EOLhyphen"/>ently pretended unto by my Lord <hi>Mayor,</hi> was the bare naming and proposing of one that might be fit to be chosen Sheriff, which was connived at, and submitted unto upon a suppo<g ref="char:EOLhyphen"/>sal, That he, by reason of his Acquaintance and Converse with the Citizens, might understand better than others, who had the most Qualifi<g ref="char:EOLhyphen"/>cations proper and necessary to so weighty and important an Office. Nor was this naked naming, challenged as a Prerogative appertaining to the Chair, but it was devolved upon, and lodged with the Mayor, at the request and desire of the Citizens. For the Justices of Assize being im<g ref="char:EOLhyphen"/>power'd by an Act made in the 20th of <hi>Edw.</hi> 3d. to inquire into the Misdemeanours of Sheriffs, and to punish them as Law and Reason should require; many thereupon became apprehensive of the Danger attending the discharge of that Office, and therefore instead of courting it, en<g ref="char:EOLhyphen"/>deavour'd to avoid and decline it. And under this allowance on this occasion vouchsafed by the <hi>Citizens</hi> to the <hi>Mayor,</hi> so far was his <hi>No<g ref="char:EOLhyphen"/>mination</hi> from less'ning, and much more from infringing the Right of the <hi>Commons</hi> in the Ele<g ref="char:EOLhyphen"/>ction of Sheriffs, that they not only several times forbore chusing <hi>Those</hi> whom the <hi>Mayors</hi> had pro<g ref="char:EOLhyphen"/>posed, as in the 42 and 43 of <hi>Edw.</hi> 3d; but by <hi>Acts</hi> of <hi>Common-Council</hi> made in the 49 <hi>Ed.</hi> 3. and 4 <hi>Hen.</hi> 5. they provided for the Preservation and Security of their own Privilege, through dis<g ref="char:EOLhyphen"/>claiming the being limited, restrain'd, or pre<g ref="char:EOLhyphen"/>scrib'd unto in their Choice, by any Power or Authority resulting from my Lord <hi>Mayor</hi>'s No<g ref="char:EOLhyphen"/>mination. And as this was all, both for the matter and manner that was practiced by the <hi>Mayors,</hi> and allowed by the <hi>Citizens</hi> for about 160 years; so the Formality of drinking to one at the Bridge-house, which was introduc'd and obtain'd about the beginning of <hi>Hen.</hi> 8. was no more accounted of, than a recommending to the <hi>Commons</hi> the Person that was drank unto, as one that might deserve their Consideration, in the Election they were to make of next She<g ref="char:EOLhyphen"/>riffs. Accordingly the Person so recommended, was not only during the Infancy of this Custom, and the modesty wherewith it was exercised, sometimes waved and rejected by the <hi>Common-Hall,</hi> as in 29th of <hi>Eliz.</hi> But even after it became both challenged as Prerogative of the Chair, and had received an Establishment by a Law of <hi>Common-Council,</hi> in 7 <hi>Ch.</hi> 1. several Persons thus nominated, and pretended to be elected by <hi>Mayors,</hi> have been refused, and precluded by the Vote and Authority of the <hi>Commons,</hi> as in 19. <hi>Ch.</hi> 1. and 32. <hi>Ch.</hi> 2. How incongruous would it now be for the Citizens of <hi>London</hi> to wear Chains, while all the Nation besides is freed from its Fetters? And while others rejoice in their being rescued from the Invasions made up<g ref="char:EOLhyphen"/>on their Rights and Liberties by Kings, shall we be fond of continuing enslaved to the Usur<g ref="char:EOLhyphen"/>pations of those, whom we our selves advanced into Office? What the Kingdom would not allow to the Throne, let not us gratify the Chair with. What we envied our late Kings after the surrender of the Charter, let us not part with to my Lord <hi>Mayor,</hi> when restored to the Possession of it. We are favoured with an opportunity, which may never be recover'd, if we now suffer it to be lost. And therefore let us not only assert and vindicate our Right of chusing two Sheriffs, but let us likewise endea<g ref="char:EOLhyphen"/>vour to retrieve that Power which hath been wrested from us by the Bench, of discharging without our Consent and Concurrence, those whom we shall think fit to Elect. And what hath been so happily begun and practic'd in the Cases of Sir <hi>Christopher Leithelier,</hi> and Sir <hi>John Hubland,</hi> let us continue to maintain the same in relation to all others. 'Tis Pageantry for us to pretend a Right to Elect, while others than the Electors can discharge the Persons that are Elected.</p>
+            <p>Those at present offered to the Vote of the <hi>Common-Hall,</hi> Are
+<list>
+                  <item>
+                     <list>
+                        <head>for Sheriffs.</head>
+                        <item>Sir <hi>WILLIAM ASHHƲRST,</hi> Kt. and Ald. </item>
+                        <item>Alderman <hi>LEVITT,</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>LEONARD ROBINSON</hi> for Chamberlain.</item>
+                  <item>
+                     <list>
+                        <head>To be Elected, and continue in their Offices.</head>
+                        <item>
+                           <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>
+                           <hi>GOODFELLOW,</hi> Esq; the present Town-Clark,</item>
+                        <item>
+                           <hi>HENRY CHRISP,</hi> Esq; the present Common-Serjeant,
+<list>
+                              <head>the present Bridge-Masters.</head>
+                              <item>
+                                 <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap>
+                                 <hi>NICHOLS,</hi>
+                              </item>
+                              <item>
+                                 <hi>ISA. PƲLLER,</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
